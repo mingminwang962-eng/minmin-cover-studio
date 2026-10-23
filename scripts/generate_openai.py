@@ -64,6 +64,8 @@ def generate(run, candidate_id, model, key, opener=urllib.request.urlopen):
 
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--content-dir', type=Path, required=True)
     p.add_argument('--run', type=Path, required=True)

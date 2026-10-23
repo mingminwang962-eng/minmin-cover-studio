@@ -8,6 +8,8 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parents[1]
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     if sys.version_info < (3, 9):
         raise RuntimeError('需要 Python 3.9 或以上版本。')
     import PIL

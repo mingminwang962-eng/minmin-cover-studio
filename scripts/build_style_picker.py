@@ -12,6 +12,8 @@ BASE = Path(__file__).resolve().parents[1]
 
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--recommendations', type=Path, help='JSON: title and recommendations [{group, reason}]')

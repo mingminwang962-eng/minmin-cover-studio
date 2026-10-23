@@ -8,6 +8,8 @@ import zipfile
 BASE=Path(__file__).resolve().parents[1]
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     version=(BASE/'VERSION').read_text(encoding='utf-8').strip()
     out=BASE/'.build';out.mkdir(exist_ok=True)
     archive=out/f'minmin-cover-studio-{version}.zip'

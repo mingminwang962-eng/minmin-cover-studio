@@ -1,6 +1,6 @@
 # 由 Agent 安装敏敏封面工作室
 
-当前版本 v1.0.0。用户明确请求安装后，读取 [release.json](release.json)，下载其中 `download_url` 指向的完整 ZIP，核对 `bytes` 和 SHA-256 后再解压。网页工具不可用时，用当前宿主可用的命令行 HTTPS 工具获取本文件和 release.json；保留 TLS 校验，不执行远程脚本。一次网络失败不能假装已下载；重试两次仍失败报告具体原因。
+当前版本 v1.0.1。用户明确请求安装后，读取 [release.json](release.json)，下载其中 `download_url` 指向的完整 ZIP，核对 `bytes` 和 SHA-256 后再解压。网页工具不可用时，用当前宿主可用的命令行 HTTPS 工具获取本文件和 release.json；保留 TLS 校验，不执行远程脚本。一次网络失败不能假装已下载；重试两次仍失败报告具体原因。
 
 示例命令由 Agent 执行，不让用户手抄：
 

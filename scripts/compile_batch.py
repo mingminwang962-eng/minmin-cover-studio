@@ -61,6 +61,8 @@ document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>{document.qu
 
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('config', type=Path)
     parser.add_argument('--wall-only', action='store_true')
@@ -103,7 +105,7 @@ def main():
         prompt = compile_prompt(config, s, selection['scene'], selection.get('design'), selection.get('visual_brief'))
         prompt_file = f'prompts/{s["id"]}.txt'
         image_file = f'候选/{s["id"]}.png'
-        (out / prompt_file).write_text(prompt, encoding='utf-8')
+        (out / prompt_file).write_bytes(prompt.encode('utf-8'))
         plan['candidates'].append({**s, 'version':VERSION, 'scene':selection['scene'], 'design':selection.get('design', {}), 'prompt_file':prompt_file, 'prompt_sha256':hashlib.sha256(prompt.encode()).hexdigest(), 'image':image_file, 'status':'pending_generation', 'review':None})
         if 'visual_brief' in selection:
             plan['candidates'][-1]['visual_brief'] = selection['visual_brief']

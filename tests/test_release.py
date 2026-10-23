@@ -104,6 +104,16 @@ class LibraryTests(unittest.TestCase):
         with patch.object(api,'save_cover',side_effect=OSError('disk failure')):
             with self.assertRaises(OSError):api.generate(run,'wall-27','gpt-image-2','test',opener=response)
         self.assertEqual(len(list(run.glob('received-*.png'))),1)
+    def test_legacy_console_encoding(self):
+        result=subprocess.run([sys.executable,str(BASE/'scripts/doctor.py')],capture_output=True,
+                              env={**os.environ,'PYTHONIOENCODING':'cp1252'})
+        self.assertEqual(result.returncode,0,result.stderr)
+        self.assertEqual(json.loads(result.stdout.decode('utf-8'))['samples'],57)
+    def test_written_prompt_matches_hash(self):
+        import hashlib
+        run=self.prepare()
+        candidate=lib.read(run/'plan.json')['candidates'][0]
+        self.assertEqual(hashlib.sha256((run/candidate['prompt_file']).read_bytes()).hexdigest(),candidate['prompt_sha256'])
     def test_portable_catalog(self):
         catalog=lib.read(BASE/'references/style-catalog.json')
         self.assertEqual(len(catalog),57)

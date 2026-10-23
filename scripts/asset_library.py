@@ -285,6 +285,8 @@ def rebuild(root):
 
 
 def main():
+    from console_utf8 import configure_output
+    configure_output()
     parser = argparse.ArgumentParser(description=__doc__)
     location = parser.add_mutually_exclusive_group(required=True)
     location.add_argument('--content-dir', type=Path, help='本次内容所在目录；photos / prepare 自动在其内建库')

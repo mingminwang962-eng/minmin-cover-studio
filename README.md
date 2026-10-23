@@ -2,7 +2,7 @@
 
 把你的文字和照片，做成有表达的中文大字封面。
 
-**v1.0.0** · [国内安装页](https://tools.minmin11538.cn/covers/) · [看看 57 张封面样例](https://tools.minmin11538.cn/covers/assets/style-wall/index.html) · [完整安装包](https://github.com/mingminwang962-eng/minmin-cover-studio/releases/latest)
+**v1.0.1** · [国内安装页](https://tools.minmin11538.cn/covers/) · [看看 57 张封面样例](https://tools.minmin11538.cn/covers/assets/style-wall/index.html) · [完整安装包](https://github.com/mingminwang962-eng/minmin-cover-studio/releases/latest)
 
 ## 交给你的 Agent
 
