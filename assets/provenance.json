@@ -1,0 +1,458 @@
+[
+  {
+    "id": "wall-01",
+    "file": "assets/samples/wall-01.png",
+    "sha256": "8b30fba2013ca73501e7fd7a08245299525e32b3e58dee2728acb4694d10668d",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-02",
+    "file": "assets/samples/wall-02.png",
+    "sha256": "92411d7f3112043bf47af649c19f7ed9cce509172c462c35f67ab49af0fe0745",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-03",
+    "file": "assets/samples/wall-03.png",
+    "sha256": "74b0a0b101774dc7f37f995bc99816a08cf62f953d6cb3db7161a2ad81c0602d",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-04",
+    "file": "assets/samples/wall-04.png",
+    "sha256": "4050846264a9c02c86c73c74c09df3b84746878f2ada0c77a0b0dd5b32bec0d8",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-05",
+    "file": "assets/samples/wall-05.png",
+    "sha256": "5ba1b78803e5433df00ddfe03fb64c14405e64de3656ae61010d8fb2f82576ab",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-06",
+    "file": "assets/samples/wall-06.png",
+    "sha256": "532cd13c138d9905df6652878c7c6584ecc2c11e4c129fb49732faaf40eca51f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-08",
+    "file": "assets/samples/wall-08.png",
+    "sha256": "7beeacb5503bd149d118d412403ae4e3bd6ded7c5cc0138cbbdcd35d64cd1bbb",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-09",
+    "file": "assets/samples/wall-09.png",
+    "sha256": "bb257bc843bc6f38a8d4834f8584c5b8adf95d26e30a2ebbd37fe220d9b44fc9",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-10",
+    "file": "assets/samples/wall-10.png",
+    "sha256": "fb8b87d5d072e89f8bbad50828ca0c909d6ef29b9444d9b24986e227dd5d07e9",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-11",
+    "file": "assets/samples/wall-11.png",
+    "sha256": "15322b76960bb1351c56e5f48f015159406f3ec4c2391f6d3108a5dde22b07f6",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-12",
+    "file": "assets/samples/wall-12.png",
+    "sha256": "f6fe51ba39719c7542a03570739f422d8901a8c3d371a5595d3088728356ca9f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-13",
+    "file": "assets/samples/wall-13.png",
+    "sha256": "58886a8043131f573a6cdf0e4735740353524cd0a9f9aa50066d6de083c31637",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-14",
+    "file": "assets/samples/wall-14.png",
+    "sha256": "d57f2cee25376f7522466e4ec640413298aa211f3178d7f8ba3a3adc1325420f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-15",
+    "file": "assets/samples/wall-15.png",
+    "sha256": "085db14f15c6619a90be5a16c87aec29dcb510bc1538a8ae38f24ba3a2ed0336",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-16",
+    "file": "assets/samples/wall-16.png",
+    "sha256": "6b4eb68bbd8be0a19329847b1825759be25c0df66063eec924199998516e5764",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-17",
+    "file": "assets/samples/wall-17.png",
+    "sha256": "d9266b3d52dfdda651fbbabc2463b0152b7571f65adc6ee39a748aa829035477",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-18",
+    "file": "assets/samples/wall-18.png",
+    "sha256": "c094ba98bc6b703a2b6ea390931f50b71b75c46047a192813426f8e1ac3421a7",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-19",
+    "file": "assets/samples/wall-19.png",
+    "sha256": "30641645e1ecdde018f574862f375af4a79824697accc07b01b56e0caac3b613",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-20",
+    "file": "assets/samples/wall-20.png",
+    "sha256": "eef10d84961303c15a02324e4eb9f15bd5afeeecf61b975ee193919e254cf7dd",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-22",
+    "file": "assets/samples/wall-22.png",
+    "sha256": "651314761b717e1edeb275c2dd20263a2af6094a073b8899a7b59906e488b2b5",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-23",
+    "file": "assets/samples/wall-23.png",
+    "sha256": "20d58ac4f40b69e1b368f3dd3284acdcd9b27ce31c21eeb05a28296629a5dfb4",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-24",
+    "file": "assets/samples/wall-24.png",
+    "sha256": "fef1ffcb59ea913daf24b18d866caa5d4e02280106a933972c1f39cf6a2ecde2",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-25",
+    "file": "assets/samples/wall-25.png",
+    "sha256": "6099b47d6af0d60b08673a558e418faab2777edbd5316abdf9d8f5ce281fb389",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-26",
+    "file": "assets/samples/wall-26.png",
+    "sha256": "5107323e5ceb63a1f6dcc391229ca55c2d3c0e864fda97a77cbfc74c93b60ccf",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-27",
+    "file": "assets/samples/wall-27.png",
+    "sha256": "01c82887f5bce1d63f16aa4cf94c1fa410974a35c41e384d7e7eb9431bdbf6f7",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-28",
+    "file": "assets/samples/wall-28.png",
+    "sha256": "325c5014cb4422eefb1653819a1773fe5ab4185ea9b0898113e93d44420afc87",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-29",
+    "file": "assets/samples/wall-29.png",
+    "sha256": "409d2b5faccdebafa6280fcf607e3ae750c181fd06c08ec6abe4b4046f57ac31",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-30",
+    "file": "assets/samples/wall-30.png",
+    "sha256": "521d0756210443548d9431d009c6e1f3d30928cb7d8e96826d165fa4228515f1",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-31",
+    "file": "assets/samples/wall-31.png",
+    "sha256": "91e5ef0bede8b6c120e0b7365eba934bcc69c3da5e104adea1bac15bff5ce7c9",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-32",
+    "file": "assets/samples/wall-32.png",
+    "sha256": "de9e1108baa95ba6ccd6686703cb6ee8dac7246ea89dbd0d9a8dca3f541c5e9f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-33",
+    "file": "assets/samples/wall-33.png",
+    "sha256": "7886b7a14d81e7a72a7cd3b4fecfde4c70ac7a362c6e722b6be2a8a607bae387",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-34",
+    "file": "assets/samples/wall-34.png",
+    "sha256": "a80a8849c5119ec113c64a8d5963b5534454e53238a049e040d72e5ae28d0930",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-35",
+    "file": "assets/samples/wall-35.png",
+    "sha256": "b28cd2283066724fd8735578114a06e0f14ad81e7c12662c5e9356a42e69e2f9",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-36",
+    "file": "assets/samples/wall-36.png",
+    "sha256": "ed240a7d081b9ab6f313ac9b275d43546a2c52e967c2adf31e85ac1f089f4953",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-37",
+    "file": "assets/samples/wall-37.png",
+    "sha256": "4db29e96fac803488b244baf3920abb757a7613a0e3c668ce948a96d47bbdd44",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-38",
+    "file": "assets/samples/wall-38.png",
+    "sha256": "e564dee8ffd4cd1bb293208c711d18a7ac11fc40cdaa92da4142c90603ef8e1b",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-39",
+    "file": "assets/samples/wall-39.png",
+    "sha256": "9fc72ce56c291982a89cdbd29088978a6d6fa9f8ae5848559936dd3428d0106f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-40",
+    "file": "assets/samples/wall-40.png",
+    "sha256": "560617757f167f76ccb80f21ad3a13fe14dd71f514626dae6113ed457927e4e4",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-41",
+    "file": "assets/samples/wall-41.png",
+    "sha256": "1344a03d64e1cb950e87677960032489ea7a06dd610f0270e3f350859ebfd3ce",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-42",
+    "file": "assets/samples/wall-42.png",
+    "sha256": "6c56fed099c3ed3a0cd8af6d7b45b035a76736e16df687690cdfc0d8a4d30c5b",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-43",
+    "file": "assets/samples/wall-43.png",
+    "sha256": "2b6bff7e0cb6afbbc791c29a2343f5b611f7ba518c91d306ce4d4836948b161e",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-44",
+    "file": "assets/samples/wall-44.png",
+    "sha256": "709874d063d1dcb6e4e769efe7a2d7ee207630728c94c3259800cf9c602532c7",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-45",
+    "file": "assets/samples/wall-45.png",
+    "sha256": "38c349283c271aa8571cd468bca383385472805b8a47a8b64c5eb17cecb575cf",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-t-real-top",
+    "file": "assets/samples/wall-t-real-top.png",
+    "sha256": "ac06e82bd292e858f6d198226aa13bec63c00426ef651403f4250967006d942e",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-t-edit-type",
+    "file": "assets/samples/wall-t-edit-type.png",
+    "sha256": "306fbd173b837488a7ad770e2547c1a7e440998423e597a901eb2f03330f9377",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-t-real-block",
+    "file": "assets/samples/wall-t-real-block.png",
+    "sha256": "bdf14bcb1f41f10ede87992af00e948a2df1e50a22a692a84f8eec8b793859db",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-r01",
+    "file": "assets/samples/wall-r01.png",
+    "sha256": "5e5fcd56e7edb3662ee50a54fed4f03555a640e48f159b1250d029943904f6d3",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-r02",
+    "file": "assets/samples/wall-r02.png",
+    "sha256": "0d4d7da28deee7656dd72c1ad838c2bd28162fe079a896e8085590fbc640cf37",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-r03",
+    "file": "assets/samples/wall-r03.png",
+    "sha256": "a0748bdf1cfaf413fcce7c76c693224506c6e8f4f4512bc6e4f1f67940391273",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-r04",
+    "file": "assets/samples/wall-r04.png",
+    "sha256": "37b811bfd43532c00680c1ef0a7cd7194299c4f08d42bafc88477a905c6fa8ad",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-w01",
+    "file": "assets/samples/wall-w01.png",
+    "sha256": "ef5dbddc3a6b91f27e2a7ec8dd3c26e01d5d2bd7c4ab99b93a5346b3d114231d",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-w02",
+    "file": "assets/samples/wall-w02.png",
+    "sha256": "01ea07e16831a6fbf9100eba80a61194e7fd7d27d57693fe4459a8377547460f",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-w03",
+    "file": "assets/samples/wall-w03.png",
+    "sha256": "3370fbfe3c38f731a9c4e203112eef218458a24c5926b5288651072b3eaa93c5",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-n01",
+    "file": "assets/samples/wall-n01.png",
+    "sha256": "787faf728a51431deb2feea279d3daed1cfdc5a2b1939857a62ce294ca785b05",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-n02",
+    "file": "assets/samples/wall-n02.png",
+    "sha256": "e2ad42d71fc2257b650f4f1d80c6cc40cf95b9ff6a29f5e07969859a4a36ce15",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-n03",
+    "file": "assets/samples/wall-n03.png",
+    "sha256": "4b6fd1e2b3e5d7ef616844d6e8e244fd32b895f13b3182c5a8877f48ac00d3c0",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  },
+  {
+    "id": "wall-n04",
+    "file": "assets/samples/wall-n04.png",
+    "sha256": "9f28e15a84aefaf691ea6c792228c3763abdf6488793d4a40b399a9a6c349710",
+    "source": "敏敏授权公开的既有封面风格样例",
+    "approved_on": "2026-10-24",
+    "kind": "AI 辅助生成封面，包含敏敏本人形象"
+  }
+]

@@ -1,0 +1,457 @@
+{
+  "schema": "minmin-cover-style-navigation/v1",
+  "categories": [
+    "照片与排字",
+    "拼贴与图形",
+    "材料质感",
+    "艺术与复古",
+    "空间与氛围",
+    "内容与结构"
+  ],
+  "groups": [
+    {
+      "id": "photo",
+      "category": "照片与排字",
+      "name": "照片大字",
+      "description": "用照片本身的空间，让一句话成为重点。",
+      "members": [
+        "wall-01",
+        "wall-t-real-top"
+      ],
+      "featured": true
+    },
+    {
+      "id": "type",
+      "category": "照片与排字",
+      "name": "个性字体",
+      "description": "用字形、宽窄和节奏表达态度。",
+      "members": [
+        "wall-04",
+        "wall-t-edit-type",
+        "wall-r01",
+        "wall-r02",
+        "wall-r03",
+        "wall-r04"
+      ],
+      "featured": true
+    },
+    {
+      "id": "blocks",
+      "category": "照片与排字",
+      "name": "错位字块",
+      "description": "文字错落排开，用色块加强节奏。",
+      "members": [
+        "wall-02"
+      ],
+      "featured": false
+    },
+    {
+      "id": "editorial",
+      "category": "照片与排字",
+      "name": "杂志版式",
+      "description": "像人物专题一样组织照片和标题。",
+      "members": [
+        "wall-03",
+        "wall-26",
+        "wall-30"
+      ],
+      "featured": true
+    },
+    {
+      "id": "fashion",
+      "category": "照片与排字",
+      "name": "时尚大片",
+      "description": "突出人物气质、留白和精致字形。",
+      "members": [
+        "wall-08"
+      ],
+      "featured": false
+    },
+    {
+      "id": "natural",
+      "category": "照片与排字",
+      "name": "自然照片",
+      "description": "保留日常照片的光线和真实感。",
+      "members": [
+        "wall-25"
+      ],
+      "featured": false
+    },
+    {
+      "id": "diary",
+      "category": "照片与排字",
+      "name": "生活日记",
+      "description": "亲近、温暖，像记录自己的某一天。",
+      "members": [
+        "wall-31"
+      ],
+      "featured": false
+    },
+    {
+      "id": "moment",
+      "category": "照片与排字",
+      "name": "现场瞬间",
+      "description": "保留镜头里的即时表情与现场感。",
+      "members": [
+        "wall-40"
+      ],
+      "featured": false
+    },
+    {
+      "id": "collage",
+      "category": "拼贴与图形",
+      "name": "杂志拼贴",
+      "description": "用纸片与照片层次组织一个完整画面。",
+      "members": [
+        "wall-09",
+        "wall-t-real-block",
+        "wall-w01"
+      ],
+      "featured": true
+    },
+    {
+      "id": "light",
+      "category": "拼贴与图形",
+      "name": "轻盈拼贴",
+      "description": "少量纸层与留白，轻巧地表达内容。",
+      "members": [
+        "wall-27"
+      ],
+      "featured": true
+    },
+    {
+      "id": "sticker",
+      "category": "拼贴与图形",
+      "name": "贴纸叠层",
+      "description": "照片、字与贴纸前后穿插，轻快醒目。",
+      "members": [
+        "wall-28"
+      ],
+      "featured": true
+    },
+    {
+      "id": "pop",
+      "category": "拼贴与图形",
+      "name": "波普撞色",
+      "description": "明快对比、网点和大字，画面更有冲击力。",
+      "members": [
+        "wall-11"
+      ],
+      "featured": true
+    },
+    {
+      "id": "graphic",
+      "category": "拼贴与图形",
+      "name": "轻快图形",
+      "description": "用清晰图形和轻松节奏陪衬真人照片。",
+      "members": [
+        "wall-12"
+      ],
+      "featured": false
+    },
+    {
+      "id": "diagonal",
+      "category": "拼贴与图形",
+      "name": "斜线张力",
+      "description": "用斜向色块和强烈排字表达行动感。",
+      "members": [
+        "wall-15"
+      ],
+      "featured": false
+    },
+    {
+      "id": "paper",
+      "category": "拼贴与图形",
+      "name": "剪纸色块",
+      "description": "清晰剪纸形状和浅浅叠层，简洁有立体感。",
+      "members": [
+        "wall-19"
+      ],
+      "featured": false
+    },
+    {
+      "id": "dada",
+      "category": "拼贴与图形",
+      "name": "撕纸碰撞",
+      "description": "用意外组合和撕纸层次表达反常识。",
+      "members": [
+        "wall-20"
+      ],
+      "featured": false
+    },
+    {
+      "id": "playful",
+      "category": "拼贴与图形",
+      "name": "活泼几何",
+      "description": "圆形、线条与色块形成轻快节奏。",
+      "members": [
+        "wall-37"
+      ],
+      "featured": true
+    },
+    {
+      "id": "street",
+      "category": "拼贴与图形",
+      "name": "潮流海报",
+      "description": "强烈大字、摄影碎片和利落图形。",
+      "members": [
+        "wall-38",
+        "wall-41",
+        "wall-n04"
+      ],
+      "featured": false
+    },
+    {
+      "id": "textile",
+      "category": "材料质感",
+      "name": "布艺纹理",
+      "description": "织物、缝线和层次带来柔软触感。",
+      "members": [
+        "wall-17"
+      ],
+      "featured": true
+    },
+    {
+      "id": "lacquer",
+      "category": "材料质感",
+      "name": "漆面珠光",
+      "description": "深色漆面与局部闪光，细腻而有分量。",
+      "members": [
+        "wall-23"
+      ],
+      "featured": false
+    },
+    {
+      "id": "clay",
+      "category": "材料质感",
+      "name": "柔软陶土",
+      "description": "柔和的立体形状，亲切、有手作感。",
+      "members": [
+        "wall-24"
+      ],
+      "featured": false
+    },
+    {
+      "id": "glass",
+      "category": "材料质感",
+      "name": "透明玻璃",
+      "description": "用透明层次和折光建立清透空间。",
+      "members": [
+        "wall-39",
+        "wall-w02"
+      ],
+      "featured": true
+    },
+    {
+      "id": "metal",
+      "category": "材料质感",
+      "name": "金属丝绸",
+      "description": "反光与柔软材质相遇，形成质感对比。",
+      "members": [
+        "wall-n01"
+      ],
+      "featured": false
+    },
+    {
+      "id": "mosaic",
+      "category": "材料质感",
+      "name": "彩玻光影",
+      "description": "彩色玻璃与拼接块面带来通透光线。",
+      "members": [
+        "wall-n03"
+      ],
+      "featured": false
+    },
+    {
+      "id": "print",
+      "category": "艺术与复古",
+      "name": "复古印刷",
+      "description": "少量印刷色、纸感与轻微套印偏移。",
+      "members": [
+        "wall-10"
+      ],
+      "featured": false
+    },
+    {
+      "id": "nouveau",
+      "category": "艺术与复古",
+      "name": "曲线花饰",
+      "description": "流动曲线和装饰边框，优雅有节奏。",
+      "members": [
+        "wall-13"
+      ],
+      "featured": false
+    },
+    {
+      "id": "deco",
+      "category": "艺术与复古",
+      "name": "几何华丽",
+      "description": "阶梯几何、对称秩序与醒目字形。",
+      "members": [
+        "wall-14"
+      ],
+      "featured": true
+    },
+    {
+      "id": "landscape",
+      "category": "艺术与复古",
+      "name": "东方山水",
+      "description": "层叠形状与矿物色，留出东方空间感。",
+      "members": [
+        "wall-16"
+      ],
+      "featured": false
+    },
+    {
+      "id": "woodcut",
+      "category": "艺术与复古",
+      "name": "复古版画",
+      "description": "背景用套色与刻印纹理，真人保持彩色。",
+      "members": [
+        "wall-22"
+      ],
+      "featured": false
+    },
+    {
+      "id": "advert",
+      "category": "艺术与复古",
+      "name": "复古广告",
+      "description": "鲜明印刷层级与复古广告的自信感。",
+      "members": [
+        "wall-42"
+      ],
+      "featured": false
+    },
+    {
+      "id": "metaphor",
+      "category": "空间与氛围",
+      "name": "视觉比喻",
+      "description": "用一个清楚的画面关系表达内容。",
+      "members": [
+        "wall-05"
+      ],
+      "featured": false
+    },
+    {
+      "id": "type-scene",
+      "category": "空间与氛围",
+      "name": "文字入景",
+      "description": "让大字与画面的空间、材质发生联系。",
+      "members": [
+        "wall-06"
+      ],
+      "featured": false
+    },
+    {
+      "id": "surreal",
+      "category": "空间与氛围",
+      "name": "超现实空间",
+      "description": "用出人意料的空间关系表达一个意思。",
+      "members": [
+        "wall-18"
+      ],
+      "featured": true
+    },
+    {
+      "id": "future",
+      "category": "空间与氛围",
+      "name": "未来展厅",
+      "description": "开阔展示空间与大标题，清楚、有未来感。",
+      "members": [
+        "wall-32"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cinema",
+      "category": "空间与氛围",
+      "name": "电影氛围",
+      "description": "用环境光影、留白和海报层级表达情绪。",
+      "members": [
+        "wall-34",
+        "wall-w03"
+      ],
+      "featured": true
+    },
+    {
+      "id": "giant",
+      "category": "空间与氛围",
+      "name": "大小反差",
+      "description": "放大一个相关物件，让对比更直观。",
+      "members": [
+        "wall-36"
+      ],
+      "featured": false
+    },
+    {
+      "id": "dream",
+      "category": "空间与氛围",
+      "name": "梦境舞台",
+      "description": "轻盈、诗意，用空间关系承载想象。",
+      "members": [
+        "wall-43"
+      ],
+      "featured": false
+    },
+    {
+      "id": "screen",
+      "category": "空间与氛围",
+      "name": "东方屏风",
+      "description": "层叠框景与开阔留白，安静、有秩序。",
+      "members": [
+        "wall-n02"
+      ],
+      "featured": true
+    },
+    {
+      "id": "list",
+      "category": "内容与结构",
+      "name": "清单重点",
+      "description": "通过分组和主次突出真正重要的事。",
+      "members": [
+        "wall-29"
+      ],
+      "featured": false
+    },
+    {
+      "id": "broadcast",
+      "category": "内容与结构",
+      "name": "节目现场",
+      "description": "明确的标题层级与现场式图形框架。",
+      "members": [
+        "wall-33"
+      ],
+      "featured": false
+    },
+    {
+      "id": "workspace",
+      "category": "内容与结构",
+      "name": "创作过程",
+      "description": "用相关材料之间的关系表达创作方法。",
+      "members": [
+        "wall-35"
+      ],
+      "featured": false
+    },
+    {
+      "id": "archive",
+      "category": "内容与结构",
+      "name": "知识档案",
+      "description": "用资料层次与组织关系呈现知识。",
+      "members": [
+        "wall-44"
+      ],
+      "featured": false
+    },
+    {
+      "id": "blueprint",
+      "category": "内容与结构",
+      "name": "结构线稿",
+      "description": "用构造线与图形关系表达步骤或结构。",
+      "members": [
+        "wall-45"
+      ],
+      "featured": false
+    }
+  ]
+}

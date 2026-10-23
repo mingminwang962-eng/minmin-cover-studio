@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+downloads/
+.build/
+.cover-studio-profile.json
+我的封面工作室/

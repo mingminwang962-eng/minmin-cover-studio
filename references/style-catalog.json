@@ -1,0 +1,572 @@
+[
+  {
+    "id": "wall-01",
+    "label": "原照 · 上方大字",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "行动与成长",
+    "layout": "Let the existing photographic negative space carry an oversized headline. An upper headline is one option, not a fixed placement. Preserve the original environment; do not invent scenery or props.",
+    "sample_id": "01",
+    "preview": "assets/samples/wall-01.png"
+  },
+  {
+    "id": "wall-02",
+    "label": "原照 · 错位字块",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "效率与时间管理",
+    "layout": "Use staggered, offset headline blocks with rhythm derived from the wording and photograph. Preserve the photographed environment; blocks may be omitted when contrast is sufficient.",
+    "sample_id": "02",
+    "preview": "assets/samples/wall-02.png"
+  },
+  {
+    "id": "wall-03",
+    "label": "编辑 · 侧置人物",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "职场与个人探索",
+    "layout": "Use an editorial hierarchy and asymmetrical relation between portrait and large headline. Choose their sides from gaze, pose and available space, without a hard photo/text split.",
+    "sample_id": "03",
+    "preview": "assets/samples/wall-03.png"
+  },
+  {
+    "id": "wall-04",
+    "label": "编辑 · 字体主导",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "表达与沟通",
+    "layout": "Let bold Chinese letterforms and word emphasis organize the composition. Choose type width, weight and spacing for this title; leave the photographic person clear.",
+    "sample_id": "04",
+    "preview": "assets/samples/wall-04.png"
+  },
+  {
+    "id": "wall-05",
+    "label": "创意 · 单一隐喻",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "小生意与行动",
+    "layout": "Express the specific content with a coherent visual metaphor. The metaphor should show the relevant relation or change, not merely a related object. Keep the photographed pose and avoid a mandatory prop.",
+    "sample_id": "05",
+    "preview": "assets/samples/wall-05.png"
+  },
+  {
+    "id": "wall-06",
+    "label": "创意 · 字与场景",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "学习与实践",
+    "layout": "Let large readable lettering interact with a content-related spatial or material gesture. Change the graphic environment only as authorized, not the photographed person or pose.",
+    "sample_id": "06",
+    "preview": "assets/samples/wall-06.png"
+  },
+  {
+    "id": "wall-08",
+    "label": "时尚编辑",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "个人品牌与生活态度",
+    "layout": "Use fashion editorial scale, deliberate whitespace and sophisticated printed display type. Derive palette and material accents from this photograph and topic; no obligatory luxury props.",
+    "sample_id": "08",
+    "preview": "assets/samples/wall-08.png"
+  },
+  {
+    "id": "wall-09",
+    "label": "独立杂志拼贴",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "自媒体与观点表达",
+    "layout": "Use independent-magazine layering, photographic fragments and irregular editorial rhythm. Fragments must contribute to this message; keep one clear headline and a coherent photographic portrait.",
+    "sample_id": "09",
+    "preview": "assets/samples/wall-09.png"
+  },
+  {
+    "id": "wall-10",
+    "label": "复古双色印刷",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "学习与输出",
+    "layout": "Use limited-ink print character, subtle registration offsets and paper texture on the backdrop and graphics. Select inks for this content; the person must remain a full-color photograph.",
+    "sample_id": "10",
+    "preview": "assets/samples/wall-10.png"
+  },
+  {
+    "id": "wall-11",
+    "label": "波普漫画",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "自媒体起步",
+    "layout": "Use pop-art graphic contrast, controlled halftone and oversized printed lettering around a photographic person. Any graphic symbol must communicate this topic; do not turn the person into a comic drawing.",
+    "sample_id": "11",
+    "preview": "assets/samples/wall-11.png"
+  },
+  {
+    "id": "wall-12",
+    "label": "真人与手绘混合",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "灵感与执行",
+    "layout": "Adapt the historical mixed-media direction into photographic portrait plus clean printed graphic shapes. Use expressive graphic rhythm without hand drawing, doodles or brush lettering; preserve the natural photographic person.",
+    "sample_id": "12",
+    "preview": "assets/samples/wall-12.png"
+  },
+  {
+    "id": "wall-13",
+    "label": "新艺术招贴",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活与自我探索",
+    "layout": "Use Art Nouveau organic framing, curved graphic rhythm and substantial readable display lettering. Select motifs only when meaningful; avoid ornamental overload and never stylize the person as a painting.",
+    "sample_id": "13",
+    "preview": "assets/samples/wall-13.png"
+  },
+  {
+    "id": "wall-14",
+    "label": "Art Deco 装饰艺术",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "个人成长与自信",
+    "layout": "Use Art Deco stepped geometry, architectural rhythm and strong display type. Metallic or decorative accents are optional and subordinate to the title; do not fix a black-gold palette.",
+    "sample_id": "14",
+    "preview": "assets/samples/wall-14.png"
+  },
+  {
+    "id": "wall-15",
+    "label": "构成主义",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "行动与执行力",
+    "layout": "Use constructivist tension, diagonal planes and forceful printed headline rhythm. Choose geometry to reinforce this content without obstructing letters or introducing generic stairs, flags or running figures.",
+    "sample_id": "15",
+    "preview": "assets/samples/wall-15.png"
+  },
+  {
+    "id": "wall-16",
+    "label": "青绿山水混合",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活节奏与情绪",
+    "layout": "Use layered mineral-color landscape-like shapes and airy spatial depth in the background graphics. Motifs may become abstract when literal mountains do not serve the message; keep the person photographic.",
+    "sample_id": "16",
+    "preview": "assets/samples/wall-16.png"
+  },
+  {
+    "id": "wall-17",
+    "label": "织物拼贴",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "长期积累与成长",
+    "layout": "Use woven, stitched or layered textile tactility in background graphics. Let material relations express the current message; never apply fabric texture or an illustrative treatment to the person.",
+    "sample_id": "17",
+    "preview": "assets/samples/wall-17.png"
+  },
+  {
+    "id": "wall-18",
+    "label": "超现实摄影",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "身份与自我选择",
+    "layout": "Use a restrained surreal photographic relation, scale shift or spatial impossibility that explains this title. Preserve the source person and pose; surreal effects belong to the graphic environment.",
+    "sample_id": "18",
+    "preview": "assets/samples/wall-18.png"
+  },
+  {
+    "id": "wall-19",
+    "label": "剪纸色块",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "方法与任务拆解",
+    "layout": "Use clean cut-paper planes, shallow layered shadows and bold printed headline shapes. Derive the cut forms from this content; do not copy old scenic props or create a paper-cut person.",
+    "sample_id": "19",
+    "preview": "assets/samples/wall-19.png"
+  },
+  {
+    "id": "wall-20",
+    "label": "达达拼贴",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "自我表达与创作",
+    "layout": "Use Dada-style unexpected juxtaposition, torn-paper layers and disruptive printed type rhythm. Juxtaposition must support this message. The person remains natural full-color photography even if graphic fragments are monochrome.",
+    "sample_id": "20",
+    "preview": "assets/samples/wall-20.png"
+  },
+  {
+    "id": "wall-22",
+    "label": "中国套色木刻",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活记录与表达",
+    "layout": "Use Chinese multi-block print texture and controlled ink overlap on the backdrop and graphics only. Keep large printed Chinese readable and the person full-color photographic; no woodcut face or body.",
+    "sample_id": "22",
+    "preview": "assets/samples/wall-22.png"
+  },
+  {
+    "id": "wall-23",
+    "label": "漆画螺钿",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "兴趣与长期创作",
+    "layout": "Use restrained lacquer depth, reflective inlay and iridescent material accents in the environment. Derive shapes from this topic and use legible printed display lettering; no brush-painted person or type.",
+    "sample_id": "23",
+    "preview": "assets/samples/wall-23.png"
+  },
+  {
+    "id": "wall-24",
+    "label": "陶土场景",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "起步与迭代",
+    "layout": "Use tactile clay-like relief and soft material geometry only in the background and graphic objects. Keep the human fully photographic and use forms that express this specific content, not generic toy props.",
+    "sample_id": "24",
+    "preview": "assets/samples/wall-24.png"
+  },
+  {
+    "id": "wall-25",
+    "label": "A 自然摄影",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "生活记录",
+    "layout": "Lead with the original natural photograph, retaining useful scenery, lighting and candid expression. Use large type in available space and minimal local contrast treatment; avoid adding decorative props.",
+    "sample_id": "25",
+    "preview": "assets/samples/wall-25.png"
+  },
+  {
+    "id": "wall-26",
+    "label": "B 现代编辑",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "思考与问题分析",
+    "layout": "Use contemporary editorial hierarchy, controlled density and clean printed lettering. Derive an integrated layout from the supplied photo and title, rather than a fixed side column or color field.",
+    "sample_id": "26",
+    "preview": "assets/samples/wall-26.png"
+  },
+  {
+    "id": "wall-27",
+    "label": "C 轻拼贴",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "灵感整理与创作",
+    "layout": "Use light paper collage with a small coherent set of purposeful fragments and a natural photographic person. For assembly-related content, make fragment relationships visible; do not reuse coffee, flowers, books or lightbulbs by habit.",
+    "sample_id": "27",
+    "preview": "assets/samples/wall-27.png"
+  },
+  {
+    "id": "wall-28",
+    "label": "贴纸三明治",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "方法与效率",
+    "layout": "Use a few clean sticker-like layers interleaved with the photographic portrait and headline. Layering should emphasize this message without covering letters, becoming a separate panel or adding unrelated badges.",
+    "sample_id": "28",
+    "preview": "assets/samples/wall-28.png"
+  },
+  {
+    "id": "wall-29",
+    "label": "清单结构",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "时间管理与优先级",
+    "layout": "Use prioritization, grouping and checklist rhythm as the graphic structure. Express the specific hierarchy with large typography; do not add tiny task text, clock icons or generic checkmarks merely to fill space.",
+    "sample_id": "29",
+    "preview": "assets/samples/wall-29.png"
+  },
+  {
+    "id": "wall-30",
+    "label": "杂志双区",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "职场与生活选择",
+    "layout": "Use two editorial levels of emphasis within one continuous composition. Integrate the photograph and title through overlap, spacing or shared graphics; never split into isolated photo and text panels.",
+    "sample_id": "30",
+    "preview": "assets/samples/wall-30.png"
+  },
+  {
+    "id": "wall-31",
+    "label": "生活日记",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "日常生活与情绪",
+    "layout": "Use a candid personal-diary photographic mood with simple printed title hierarchy. Preserve the person and favor meaningful details already present; no compulsory hearts, handwritten notes or scrapbook props.",
+    "sample_id": "31",
+    "preview": "assets/samples/wall-31.png"
+  },
+  {
+    "id": "wall-32",
+    "label": "未来展会",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "AI与个人能力",
+    "layout": "Use a future-exhibition visual language: clear large-scale presentation, restrained spatial framing and a strong headline. Any display or object must express the content; no invented labels, logos or generic technology clutter.",
+    "sample_id": "32",
+    "preview": "assets/samples/wall-32.png"
+  },
+  {
+    "id": "wall-33",
+    "label": "电视现场",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "表达与沟通",
+    "layout": "Use broadcast immediacy, clear headline hierarchy and a purposeful graphic frame or field. Keep all headline lines substantial; avoid invented lower-thirds, channel marks, extra captions and duplicate faces.",
+    "sample_id": "33",
+    "preview": "assets/samples/wall-33.png"
+  },
+  {
+    "id": "wall-34",
+    "label": "电影感版式",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "自我成长与情绪",
+    "layout": "Use cinematic poster hierarchy, controlled negative space and coherent environmental mood. Keep the original person colors and avoid cinematic filters on skin or obligatory dark grading.",
+    "sample_id": "34",
+    "preview": "assets/samples/wall-34.png"
+  },
+  {
+    "id": "wall-35",
+    "label": "创作者工作台",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "AI工具与工作效率",
+    "layout": "Use the organized relationships of a creator workspace to express the actual process in this content. Show only relevant materials or tools, preserve the photo pose and do not add generic desks, bulbs or devices as filler.",
+    "sample_id": "35",
+    "preview": "assets/samples/wall-35.png"
+  },
+  {
+    "id": "wall-36",
+    "label": "超现实巨物",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "情绪与注意力",
+    "layout": "Use an exaggerated scale relationship to make the actual content contrast visible. One coherent large-scale graphic or object may suffice; preserve the source person and choose objects from this message.",
+    "sample_id": "36",
+    "preview": "assets/samples/wall-36.png"
+  },
+  {
+    "id": "wall-37",
+    "label": "孟菲斯平面",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活方式与创意",
+    "layout": "Use Memphis-style playful geometry, rhythm and bold printed type. Balance graphic energy with clear photographic identity and a small number of meaningful shape relationships; no fixed palette or random pattern overload.",
+    "sample_id": "37",
+    "preview": "assets/samples/wall-37.png"
+  },
+  {
+    "id": "wall-38",
+    "label": "野兽主义平面",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "行动与创作",
+    "layout": "Use graphic brutalism: direct large typography, assertive spacing and raw planar contrast. Keep every letter intact and the natural photographic person clear; raw energy does not require decorative clutter.",
+    "sample_id": "38",
+    "preview": "assets/samples/wall-38.png"
+  },
+  {
+    "id": "wall-39",
+    "label": "清透材质科技",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "工作流程与AI",
+    "layout": "Use transparent, refractive or layered glass-like graphic structure to express clarity or connections in this content. The person remains untinted; do not add AI lettering, screens or flow nodes unless the message requires them.",
+    "sample_id": "39",
+    "preview": "assets/samples/wall-39.png"
+  },
+  {
+    "id": "wall-40",
+    "label": "现场截图感",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "口播与镜头表达",
+    "layout": "Use the immediacy of an authentic photographic moment, with large integrated headline placement. Preserve the source expression and pose; no fake recording UI, duplicate portraits, timecodes or camera props.",
+    "sample_id": "40",
+    "preview": "assets/samples/wall-40.png"
+  },
+  {
+    "id": "wall-41",
+    "label": "涂鸦海报",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "创意与创作状态",
+    "layout": "Adapt the historical graffiti-poster direction into energetic printed display type, bold graphic cuts and urban photographic layering. No hand-drawn doodles, brush lettering or illustrated human; derive accents from this title.",
+    "sample_id": "41",
+    "preview": "assets/samples/wall-41.png"
+  },
+  {
+    "id": "wall-42",
+    "label": "复古商业广告",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "工具选择与消费取舍",
+    "layout": "Use vintage commercial print hierarchy and confident product-ad composition, without inventing product claims. Any object must match the actual topic; do not interpret software tools as drills or hardware by default.",
+    "sample_id": "42",
+    "preview": "assets/samples/wall-42.png"
+  },
+  {
+    "id": "wall-43",
+    "label": "梦境舞台",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "人生选择与成长",
+    "layout": "Use a dreamlike shallow stage, spatial ambiguity or poetic graphic relation that supports the emotional content. Preserve the source person; avoid habitual flowers, stairs, ribbons or grand architecture.",
+    "sample_id": "43",
+    "preview": "assets/samples/wall-43.png"
+  },
+  {
+    "id": "wall-44",
+    "label": "知识档案馆",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "知识管理与学习",
+    "layout": "Use archive-like organization, indexing rhythm and layered document geometry to express knowledge relationships. Keep the headline large; no invented tiny labels, unreadable writing or generic filing props unless useful.",
+    "sample_id": "44",
+    "preview": "assets/samples/wall-44.png"
+  },
+  {
+    "id": "wall-45",
+    "label": "蓝图设计",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "流程与执行",
+    "layout": "Use blueprint-style construction lines and precise graphic relationships for the actual process or structure. This is a design language, not cyanotype photography: keep the person full-color and do not fix a blue palette or add irrelevant technical labels.",
+    "sample_id": "45",
+    "preview": "assets/samples/wall-45.png"
+  },
+  {
+    "id": "wall-t-real-top",
+    "label": "原照大字",
+    "family": "真人大字",
+    "mode": "photo",
+    "suitable": "行动与成长",
+    "layout": "Use photographic immediacy and a large simple title shaped by existing negative space. Preserve original lighting and environment; determine position afresh rather than forcing a top headline.",
+    "sample_id": "T-real-top",
+    "preview": "assets/samples/wall-t-real-top.png"
+  },
+  {
+    "id": "wall-t-edit-type",
+    "label": "字体主导",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "思考与表达",
+    "layout": "Make readable Chinese display letterforms the primary design device. Choose serif or sans-serif weight, width and spacing from the wording and photo; never overlap hair with headline characters.",
+    "sample_id": "T-edit-type",
+    "preview": "assets/samples/wall-t-edit-type.png"
+  },
+  {
+    "id": "wall-t-real-block",
+    "label": "纸片拼贴",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "经验复盘与方法",
+    "layout": "Use printed paper blocks or fragments to connect the photograph and title. Choose their rhythm and function from the new message; no hand-drawn symbols or automatic scrapbook objects.",
+    "sample_id": "T-real-block",
+    "preview": "assets/samples/wall-t-real-block.png"
+  },
+  {
+    "id": "wall-r01",
+    "label": "窄长重字",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "情绪与自我管理",
+    "layout": "Use condensed heavy Chinese type to create vertical tension and clear title rhythm. Preserve legibility of every main line; choose placement and contrast from the actual photograph.",
+    "sample_id": "R01",
+    "preview": "assets/samples/wall-r01.png"
+  },
+  {
+    "id": "wall-r02",
+    "label": "疏密错位",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "时间管理与生活",
+    "layout": "Use a deliberate contrast between dense and open headline groups, with offset alignment derived from semantic breaks. Whitespace and rhythm do the work; do not shrink a main line into a caption.",
+    "sample_id": "R02",
+    "preview": "assets/samples/wall-r02.png"
+  },
+  {
+    "id": "wall-r03",
+    "label": "空实叠字",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "自我觉察与成长",
+    "layout": "Use solid and outlined Chinese display type in a controlled layered relationship. Keep outlines substantial at thumbnail size; never let hair, shapes or layering break complete characters.",
+    "sample_id": "R03",
+    "preview": "assets/samples/wall-r03.png"
+  },
+  {
+    "id": "wall-r04",
+    "label": "几何节奏",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "时间安排与生活",
+    "layout": "Use geometric typographic rhythm and a few coordinated graphic beats that reinforce this wording. Choose geometry and spacing afresh; do not impose clocks, bars or dots when unrelated.",
+    "sample_id": "R04",
+    "preview": "assets/samples/wall-r04.png"
+  },
+  {
+    "id": "wall-w01",
+    "label": "摄影拼贴 · 色纸与空间",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "创作与碎片时间",
+    "layout": "Use colored-paper space and photographic layering as one integrated collage. Derive the arrangement and colors from content and source photo; fragments should relate to the message, not repeat sample props.",
+    "sample_id": "W01",
+    "preview": "assets/samples/wall-w01.png"
+  },
+  {
+    "id": "wall-w02",
+    "label": "透明空间 · 清透叠层",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "专注与工作环境",
+    "layout": "Use clear translucent planes and restrained depth to organize photograph and headline. Transparency may shape the environment, never tint the person or reduce title contrast.",
+    "sample_id": "W02",
+    "preview": "assets/samples/wall-w02.png"
+  },
+  {
+    "id": "wall-w03",
+    "label": "电影光影 · 环境叙事",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "生活与情绪",
+    "layout": "Use environmental light and poster-like spatial storytelling around the actual photograph. Keep skin, hair and clothing colors natural; do not add invented scenic objects merely to create a cinematic mood.",
+    "sample_id": "W03",
+    "preview": "assets/samples/wall-w03.png"
+  },
+  {
+    "id": "wall-n01",
+    "label": "金属与丝绸",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "成长与个人力量",
+    "layout": "Use a controlled contrast of reflective metal and soft silk in the graphic environment. Derive folds and structure from the message; avoid material effects on the person and avoid automatic flowers or luxury props.",
+    "sample_id": "N01",
+    "preview": "assets/samples/wall-n01.png"
+  },
+  {
+    "id": "wall-n02",
+    "label": "东方屏风空间",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活节奏与留白",
+    "layout": "Use screen-like framing, layered open space and restrained Eastern spatial rhythm. Forms may be abstract; no obligatory tea set, bamboo, moon gate or landscape when unrelated to the content.",
+    "sample_id": "N02",
+    "preview": "assets/samples/wall-n02.png"
+  },
+  {
+    "id": "wall-n03",
+    "label": "彩色玻璃马赛克",
+    "family": "创意大字",
+    "mode": "photo",
+    "suitable": "生活方式与自我探索",
+    "layout": "Use stained-glass or mosaic-like colored planes and light in the background graphics. Choose segmentation for the message; the photographic person remains untinted and the headline retains clear contrast.",
+    "sample_id": "N03",
+    "preview": "assets/samples/wall-n03.png"
+  },
+  {
+    "id": "wall-n04",
+    "label": "潮流摄影拼贴",
+    "family": "编辑大字",
+    "mode": "photo",
+    "suitable": "自媒体与个人表达",
+    "layout": "Use contemporary photographic collage, assertive clean printed type and controlled high-energy accents. Select image fragments for the actual content; avoid generic urban, camera or laptop decoration and keep the person full-color.",
+    "sample_id": "N04",
+    "preview": "assets/samples/wall-n04.png"
+  }
+]
