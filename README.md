@@ -38,3 +38,13 @@
 ## 许可
 
 代码采用 [MIT](LICENSE)。随包图片单独遵循 [样例图片说明](ASSET-LICENSE.md)，来源及 SHA-256 见 [公开素材清单](assets/provenance.json)。用户自己的照片与作品不随仓库分发。
+
+<!-- minmin-contact:start -->
+## 联系敏敏
+
+使用中有问题，或想交流新想法？欢迎联系敏敏。
+
+<img src="https://tools.minmin11538.cn/covers/contact/wechat-min11538.jpg" width="180" alt="敏敏的微信二维码">
+
+微信：**min11538** · [敏敏的个人主页](https://me.minmin11538.cn/)
+<!-- minmin-contact:end -->
